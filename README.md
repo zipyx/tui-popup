@@ -10,5 +10,3 @@ in the parent directory of the repository. My setup is in `linux`.
 ```bash
 cargo run
 ```
-
-### Other
